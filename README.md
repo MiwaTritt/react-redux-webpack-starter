@@ -1,1 +1,1 @@
-# crypto-tracker
+# React, Redux, Webpack Starter Project
