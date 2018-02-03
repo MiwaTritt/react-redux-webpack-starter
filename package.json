@@ -1,8 +1,8 @@
 {
-  "name": "crypto-tracker",
+  "name": "react-redux-webpack-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/MiwaTritt/crypto-tracker.git",
+  "repository": "https://github.com/MiwaTritt/react-redux-webpack-starter.git",
   "author": "MiwaTritt <tmt7rc@virginia.edu>",
   "license": "MIT",
   "scripts": {
